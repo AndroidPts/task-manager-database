@@ -16,7 +16,6 @@
 psql -U postgres -d taskmanager -f schema.sql
 psql -U postgres -d taskmanager -f seed.sql
 
-
 ## Связанные репозитории
 
 - [Серверная часть](https://github.com/AndroidPts/task-manager-server)
